@@ -1,4 +1,4 @@
-#Name: Leama Tah & Chikka Gowthami
+#Name: Leama Tah
 
 install.packages('fpp3') #for tsibble
 install.packages("tsibble")
